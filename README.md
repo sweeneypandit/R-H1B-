@@ -6,3 +6,6 @@ So this R file has many visualiztaions that I have tried out in R studio.I have 
 I have tried some single and multi dimension plots to analyse the data. Gathered some insights on which cities provide most H1B, which 
 job title is most favourable for H1B, how the visa case status has changed over the years. Some Exploratory analysis on the data and vivid
 visualizations to go along with it. Have fun exploring it :)
+
+****** You would need to have R studio installed in the system to run this script****************************************
+Thank you
